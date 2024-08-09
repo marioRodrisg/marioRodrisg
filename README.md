@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou o Mário!</h2>
 
 <p align="center">
-  <img src="https://img.freepik.com/fotos-premium/gato-computador_815088-234.jpg" />
+  <img src="https://img.freepik.com/fotos-premium/gato-computador_815088-234.jpg" width="300" />
 </p>
 
 **marioRodrisg/marioRodrisg** É o meu `README.md` para falar sobre mim e minhas qualificações, tanto pessoais quanto profissionais.
