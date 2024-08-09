@@ -1,12 +1,12 @@
 <h2 align="center">Olá! Eu sou o Mário!</h2>
 
 <p align="center">
-  <img src="https://img.freepik.com/fotos-premium/gato-computador_815088-234.jpg" width="300" />
+  <img src=""
 </p>
 
 **marioRodrisg/marioRodrisg** É o meu `README.md` para falar sobre mim e minhas qualificações, tanto pessoais quanto profissionais.
 
-Here are some ideas to get you started:
+Aqui esta meus projetos pessoal e profissional:
 
 - 🌱 Atualmente lendo livros de programação e desenvolvimento pessoal:
   > - Código Limpo: Habilidades Práticas do Agile Software  
