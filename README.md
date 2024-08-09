@@ -1,16 +1,17 @@
-## Hi there 👋
+<center><h2> Olá! Eu sou o Mário! </h2></center>
 
-<!--
-**marioRodrisg/marioRodrisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<image src ="https://gifdb.com/images/high/super-mario-long-nose-kp0412jrw8xmv0dd.gif">
+
+
+**marioRodrisg/marioRodrisg** É o meu `READ.md` para falar sobre mim e minhas qualificações tanto pessoal quanto profissional.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente lendo livros de programação e desenvolvimento pessoal:
+  >- Código Limpo: Habilidades Práticas do Agile Software <br>
+  >- Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos <br>
+  >- A arte da meditação: Aprenda a tranquilizar a mente, relaxar o corpo e desenvolver o poder da concentração
+  
+- 💬 Criador de soluções web, com paixão por novas tecnologias e aprendizado contínuo.
+- 📋 Autodidata em programação, mas possuo conta na plataforma da `dio.io`
+- 👽 Minhas linguagens são: Python, PhP
